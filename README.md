@@ -20,7 +20,7 @@ Containers (NONE)
 Customer Engagement (NONE)
 
 Database
-- DynamoDB
+- DynamoDB https://github.com/jrdalino/aws-dynamodb-terraform
 - Elasticache
 - RDS 
 - S3
