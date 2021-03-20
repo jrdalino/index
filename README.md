@@ -8,7 +8,7 @@ App Integration
 - SNS
 
 Cost Management
-- Budgets
+- Budgets https://github.com/jrdalino/aws-budgets-terraform
 
 Blockchain (NONE)
 Business Application (NONE)
