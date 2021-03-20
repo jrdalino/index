@@ -29,7 +29,6 @@ Developer Tools
 - TF State Backend https://github.com/jrdalino/aws-tfstate-backend-terraform >> DONE
 - CodeBuild
 - CodePipeline
-- CloudWatch Logs
 - XRay
 
 End User Computing (NONE)
@@ -39,7 +38,7 @@ Internet of Things (NONE)
 Machine Learning (NONE)
 
 Management & Governance
-- CloudWatch
+- CloudWatch Logs
 
 Media Services (NONE)
 Migration & Transfer (NONE)
