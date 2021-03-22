@@ -8,7 +8,7 @@ App Integration
 - SNS
 
 Cost Management
-- Budgets https://github.com/jrdalino/aws-budgets-terraform
+- Budgets: https://github.com/jrdalino/aws-budgets-terraform
 
 Blockchain (NONE)
 Business Application (NONE)
@@ -20,13 +20,13 @@ Containers (NONE)
 Customer Engagement (NONE)
 
 Database
-- DynamoDB https://github.com/jrdalino/aws-dynamodb-terraform
+- DynamoDB: https://github.com/jrdalino/aws-dynamodb-terraform
 - Elasticache
 - RDS 
 - S3
 
 Developer Tools
-- TF State Backend https://github.com/jrdalino/aws-tfstate-backend-terraform >> DONE
+- TF State Backend: https://github.com/jrdalino/aws-tfstate-backend-terraform >> DONE
 - CodeBuild
 - CodePipeline
 - XRay
@@ -53,7 +53,7 @@ Robotics (NONE)
 Satellite (NONE)
 
 Security
-- Cloudtrail
+- Cloudtrail: https://github.com/jrdalino/aws-cloudtrail-terraform
 - Cognito User Pool
 
 Storage
