@@ -20,7 +20,7 @@ Containers (NONE)
 Customer Engagement (NONE)
 
 Database
-- DynamoDB: https://github.com/jrdalino/aws-dynamodb-terraform
+- DynamoDB: https://github.com/jrdalino/aws-dynamodb-terraform >> DONE
 - Elasticache
 - RDS 
 - S3
@@ -53,7 +53,7 @@ Robotics (NONE)
 Satellite (NONE)
 
 Security
-- Cloudtrail: https://github.com/jrdalino/aws-cloudtrail-terraform
+- Cloudtrail: https://github.com/jrdalino/aws-cloudtrail-terraform >> DONE
 - Cognito User Pool
 
 Storage
