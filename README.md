@@ -54,7 +54,8 @@ Robotics (NONE)
 Satellite (NONE)
 
 Security
-- Organisations & Multi Account Harderning >> https://github.com/jrdalino/aws-organizations-multi-account-hardening >> DONE
+- AWS Multi Account Hardening >> https://github.com/jrdalino/aws-organizations-multi-account-hardening >> DONE
+- Organisations
 - Cloudtrail: https://github.com/jrdalino/aws-cloudtrail-terraform >> DONE
 - Cognito User Pool
 
