@@ -45,7 +45,7 @@ Migration & Transfer (NONE)
 
 Network
 - VPC
-- API Gateway
+- API Gateway: https://github.com/jrdalino/aws-api-gateway-rest-api-terraform >> DONE
 - Cloudfront
 
 Quantum Technologies (NONE)
