@@ -5,10 +5,10 @@
 Analytics (NONE)
 
 App Integration
-- SNS: https://github.com/jrdalino/aws-sns-terraform
+- SNS: https://github.com/jrdalino/aws-sns-terraform >> DONE
 
 Cost Management
-- Budgets: https://github.com/jrdalino/aws-budgets-terraform
+- Budgets: https://github.com/jrdalino/aws-budgets-terraform >> DONE
 
 Blockchain (NONE)
 Business Application (NONE)
