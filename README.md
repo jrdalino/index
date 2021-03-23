@@ -22,7 +22,7 @@ Customer Engagement (NONE)
 Database
 - DynamoDB: https://github.com/jrdalino/aws-dynamodb-terraform >> DONE
 - Elasticache
-- RDS 
+- RDS' https://github.com/jrdalino/aws-rds-terraform >> DONE
 - S3
 
 Developer Tools
