@@ -5,7 +5,7 @@
 Analytics (NONE)
 
 App Integration
-- SNS
+- SNS: https://github.com/jrdalino/aws-sns-terraform
 
 Cost Management
 - Budgets: https://github.com/jrdalino/aws-budgets-terraform
