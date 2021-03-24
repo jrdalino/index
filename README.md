@@ -58,7 +58,7 @@ Security
 - AWS Multi Account Hardening >> https://github.com/jrdalino/aws-organizations-multi-account-hardening >> DONE
 - Organisations
 - Cloudtrail: https://github.com/jrdalino/aws-cloudtrail-terraform >> DONE
-- Cognito User Pool
+- Cognito User Pool: https://github.com/jrdalino/aws-cognito-terraform >> DONE
 
 Storage
 - S3
