@@ -14,6 +14,7 @@ Blockchain (NONE)
 Business Application (NONE)
 
 Compute
+- EC2: https://github.com/jrdalino/aws-ec2-terraform >> DONE
 - Lambda
 
 Containers (NONE)
@@ -93,7 +94,6 @@ Blockchain
 Business Application (NONE)
 
 Compute
-- EC2
 - EC2 AutoScaling
 - Batch
 - Elastic Beanstalk
