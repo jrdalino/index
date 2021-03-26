@@ -48,7 +48,7 @@ Network
 - VPC: https://github.com/jrdalino/aws-vpc-terraform >> DONE
 - API Gateway: https://github.com/jrdalino/aws-api-gateway-rest-api-terraform >> DONE
 - API Docs: https://github.com/jrdalino/api-gateway-dev-portal >> DONE
-- Cloudfront
+- Cloudfront https://github.com/jrdalino/aws-cloudfront-terraform >> DONE
 
 Quantum Technologies (NONE)
 Robotics (NONE)
