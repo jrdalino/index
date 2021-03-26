@@ -28,7 +28,7 @@ Database
 
 Developer Tools
 - TF State Backend: https://github.com/jrdalino/aws-tfstate-backend-terraform >> DONE
-- CodeBuild
+- CodeBuild: https://github.com/jrdalino/aws-codebuild-terraform >> IN PROGRESS
 - CodePipeline
 - XRay
 
